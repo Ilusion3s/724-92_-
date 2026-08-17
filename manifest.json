@@ -1,0 +1,13 @@
+{
+  "version": 168,
+  "lists": [
+    {
+      "id": "1ed7c01a-022e-4f77-ad7b-8733419ec329",
+      "name": "miotv",
+      "type": "xtream",
+      "server": "http://miotv.cc:8080",
+      "user": "enc:e4gfpPyQxMtTOLeyq2FttsAIjsRc+gwlBn8N/bcyq1s=",
+      "pass": "enc:0k70SnL+nDUYzcZiaknGWpkBm8DYFdHk+Jc+DvxDPs4="
+    }
+  ]
+}
